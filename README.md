@@ -1,16 +1,13 @@
-## Hi there 👋
+## OLA 👋
 
-<!--
-**JPsantos1207/JPsantos1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Pedro Santos Bustamante Freire de Andrade
 
-Here are some ideas to get you started:
+Estou estudando no Alura
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Entre em contato comigo**
+00001086181621sp@al.educacao.sp.gov.br
+
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXF2ZGhxcXFwZ3dnc3Bxa2h6cTJ5cGc2ZGVodTR4djdqMHE5a2ZscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iAnEvLVEtPuLK/giphy.webp)
+
+
